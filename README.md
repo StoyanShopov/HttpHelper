@@ -1,5 +1,5 @@
 # HttpHelper
-HttpHelper is simplified to send easily GET and POST request.
+HttpHelper using two simple methods for GET and POST request. You can add an authentication cookies as well.
 
 ## Examples
 
